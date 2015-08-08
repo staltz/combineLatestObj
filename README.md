@@ -25,7 +25,7 @@ state$.subscribe(x => console.dir(x));
 // {a: 2, b: 'Boston', c: 'Colorado'}
 ```
 
-It takes [Cycle.js' hungarian notation `$`](http://cycle.js.org/basic-examples.html#what-does-the-suffixed-dollar-sign-mean) into consideration, returning an object whose's keys don't have the $.
+It takes [Cycle.js' hungarian notation `$`](http://cycle.js.org/basic-examples.html#what-does-the-suffixed-dollar-sign-mean) into consideration, returning an object whose keys don't have the $.
 
 The above is more convenient than writing:
 ```js
