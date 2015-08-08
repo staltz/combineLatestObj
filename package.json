@@ -1,0 +1,17 @@
+{
+  "name": "rx-combine-latest-obj",
+  "version": "1.0.0",
+  "description": "A convenient flavor of Rx.Observable.combineLatest to return an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rx",
+    "rxjs",
+    "observable",
+    "combineLatest"
+  ],
+  "author": "Andre Staltz",
+  "license": "MIT"
+}
