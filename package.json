@@ -1,6 +1,6 @@
 {
   "name": "rx-combine-latest-obj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A convenient flavor of Rx.Observable.combineLatest to return an object",
   "main": "index.js",
   "scripts": {
