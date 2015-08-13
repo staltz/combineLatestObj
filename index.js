@@ -1,3 +1,5 @@
+var Rx = require('rx');
+
 function combineLatestObj(obj) {
   var sources = [];
   var keys = [];

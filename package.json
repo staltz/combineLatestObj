@@ -12,6 +12,9 @@
     "observable",
     "combineLatest"
   ],
+  "peerDependencies": {
+    "rx": "*"
+  },
   "author": "Andre Staltz",
   "license": "MIT"
 }
