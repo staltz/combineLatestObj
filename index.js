@@ -1,4 +1,4 @@
-var Rx = require('rx');
+var Rx = require('rxjs');
 
 function combineLatestObj(obj) {
   var sources = [];
